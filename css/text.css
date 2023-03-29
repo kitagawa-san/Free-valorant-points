@@ -1,0 +1,26 @@
+body{ 
+    background-color: bisque;
+}
+h1{ 
+    font-size: 35px;
+    color: turquoise;
+    }
+    h2{ 
+    color: mediumslateblue;
+    font-size: 35px;
+    }
+    .LMAO{ 
+    font-size: 67px;
+    }
+    .UPPER{ 
+    text-transform: uppercase;
+    }
+    .LOWER{ 
+    text-transform: lowercase;
+    }
+    .LOWER.LMAO{ 
+    color: darkgrey;
+    }
+    h1 span{ 
+    color: brown;
+    }
