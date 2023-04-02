@@ -24,6 +24,7 @@ header img{
 main{ 
     margin: 0 auto;
     padding: 10px;
+    background-color: beige;
 }
 main img{ 
     max-width: 100%;
